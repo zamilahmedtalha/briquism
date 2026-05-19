@@ -1,0 +1,8 @@
+{
+  "name": "Briqusion Cinema",
+  "description": "An editorial boutique showcase for modern typography and cinematic aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
